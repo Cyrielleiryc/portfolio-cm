@@ -6,6 +6,7 @@ marron: #47403B */
 
 @import url("progress_bar.css");
 @import url("navbar.css");
+@import url("parcours.css");
 
 body {
   background-color: #EEE7E8;

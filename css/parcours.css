@@ -1,0 +1,8 @@
+#mon-parcours {
+  display: flex;
+  justify-content: space-between;
+}
+
+.mon-parcours-texte {
+  margin-right: 15px;
+}
