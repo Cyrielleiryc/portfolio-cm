@@ -7,6 +7,7 @@ marron: #47403B */
 @import url("progress_bar.css");
 @import url("navbar.css");
 @import url("parcours.css");
+@import url("projets.css");
 
 body {
   background-color: #EEE7E8;
@@ -19,7 +20,12 @@ h1, h2, h3 {
 
 .container {
   background-color: #FDF8F4;
-  width: 90%;
+  width: 80%;
   margin: 0 auto;
   padding: 0 10vh;
+}
+
+.wrapper {
+  border-bottom: 1px solid #FCB885;
+  padding: 20px 0;
 }
